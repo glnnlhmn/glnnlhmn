@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <img src="random_picture.png" alt="New Hampshire Lake" width="500"/>
 
+## [Repo Index](https://github.com/glnnlhmn/glnnlhmn/blob/main/INDEX.md)
+
+
 ## Me
 
 Currently, I live in New Hampshire's Lake region (shown above). I was born in Harrisburg, Pa, but I tell people I am from [Hershey](https://www.hersheypa.com/). For some reason, more people know about chocolate than the capital of a state.  I left home to join the Navy after graduating from high school.  In the Navy, I volunteered for submarine duty. (Side note: I volunteered to serve on ships designed to sink. Please do not expect me to be to normal.)  During my time in the Navy, I was married to a great woman and had four children. After about 20 years in the Navy, I had to get a real job. My children have since blessed me with four grandchildren.  
@@ -29,6 +32,6 @@ The concept of turing data into useful information is something I find interesti
 
 I have belonged to lots over the years. Currently I am active with [Boston Python](https://about.bostonpython.com/).
 
-### Education
+## Education
 
 I am currently attedning Southern New Hapshire University where I carry a dual major of Mathematics amd Computer Science (w/Focus on Data Analytics) I started keepng my computer science work in my [SNHU Repo](https://github.com/glnnlhmn/SNHU) if you ae interested in my projects.
