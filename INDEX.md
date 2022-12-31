@@ -24,7 +24,11 @@ Repos associated with presentation or discussion I have given at or particpated 
 - Pandas - Stef Molin - 2022 [Sample Repo](https://github.com/glnnlhmn/pycon_2022_pandas-workshop)
 - 
 
-### Online
+### Real Python
+- [File Basics](https://github.com/glnnlhmn/file_basic) - Intro to file, read, write, and append
+- [Snakesay](https://github.com/glnnlhmn/snakesay) - Basic **pyproject.toml**
+
+### Other
 
 ## Forks
 
