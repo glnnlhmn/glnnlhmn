@@ -30,8 +30,8 @@ The concept of turing data into useful information is something I find interesti
 
 ## Organizations
 
-I have belonged to lots over the years. Currently I am active with [Boston Python](https://about.bostonpython.com/).
+I have belonged to lots over the years. Currently, I am active with [Boston Python](https://about.bostonpython.com/).
 
 ## Education
 
-I am currently attedning Southern New Hapshire University where I carry a dual major of Mathematics amd Computer Science (w/Focus on Data Analytics) I started keepng my computer science work in my [SNHU Repo](https://github.com/glnnlhmn/SNHU) if you ae interested in my projects.
+I am currently attending Southern New Hampshire University where I carry a dual major of Mathematics amd Computer Science (w/Focus on Data Analytics) I started keepng my computer science work in my [SNHU Repo](https://github.com/glnnlhmn/SNHU) if you ae interested in my projects.
