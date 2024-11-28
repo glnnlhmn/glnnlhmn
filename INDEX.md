@@ -1,39 +1,9 @@
-# Index to My Repo
+### Repository Index
 
-For a detailed description see the individual repositories.
+Welcome to my GitHub repository index! Here, you'll find a curated selection of my projects. I have made a conscious decision to showcase only complete projects to highlight my best work and ensure quality.
 
-## Projects
+When you see a forked project, it means I am actively contributing to and participating in its development. I believe in collaboration and continuous improvement, and these forks represent my efforts to give back to the community.
 
-- College work [SNHU](https://github.com/glnnlhmn/SNHU)
-- Amazon Driver Bonus Calculator [GSDP](https://github.com/glnnlhmn/bonus-calculator)
+Additionally, repositories associated with tutorials have been marked as private to keep the focus on my original and collaborative projects, making them more visible and easier to navigate.
 
-
-## Boston Python
-
-Repos associated with presentation or discussion I have given at or particpated in.  
-
-- [Book Discussion](https://github.com/glnnlhmn/python_book_discussion)
-- [Numpy](https://github.com/glnnlhmn/boston_python_numpy)
-- [Database Cursor Test](https://github.com/glnnlhmn/cur_test)
-
-
-## Tutorials 
-
-### PyCon
-
-- Pandas - Stef Molin - 2022 [Sample Repo](https://github.com/glnnlhmn/pycon_2022_pandas-workshop)
-- 
-
-### Real Python
-- [File Basics](https://github.com/glnnlhmn/file_basic) - Intro to file, read, write, and append
-- [Snakesay](https://github.com/glnnlhmn/snakesay) - Basic **pyproject.toml**
-
-### Other
-
-## Forks
-
-These repos were fork so I could examin the code with in the project.
-
-
-
-## Contributions
+### Projects
